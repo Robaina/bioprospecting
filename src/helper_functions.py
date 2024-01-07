@@ -1,3 +1,4 @@
+from __future__ import annotations
 import pandas as pd
 import re
 from pathlib import Path
@@ -100,3 +101,71 @@ def flatten_input_directory(
         dest_file_path = dest_directory / file_path.name
         shutil.copy2(file_path, dest_file_path)
         # print(f"Copied: {file_path} -> {dest_file_path}")
+
+
+def parse_metadata(metadata_path: Path) -> dict:
+    """
+    Parses the metadata information from a file.
+    Returns a dictionary mapping seq_id to a dictionary of metadata.
+    """
+    metadata = {}
+    with metadata_path.open("r") as file:
+        next(file)  # Skip the header line
+        for line in file:
+            parts = line.strip().split("\t")
+            seq_id = parts[0]
+            metadata[seq_id] = {
+                "function": parts[1],
+                "taxonomy": parts[2],
+                "novelty": float(parts[3]),
+                "gcf_id": int(parts[4]),
+            }
+    return metadata
+
+
+def parse_correspondence(correspondence_path: Path) -> dict[str, str]:
+    """
+    Parses the correspondence information from a file.
+    Returns a dictionary mapping old identifiers to new identifiers.
+    """
+    correspondence = {}
+    with correspondence_path.open("r") as file:
+        for line in file:
+            old_id, new_id = line.strip().split("\t")
+            correspondence[old_id] = new_id
+    return correspondence
+
+
+def assign_metadata_to_bgcs(
+    bgcs_with_activity: list[str],
+    metadata: dict[str, dict[str, str]],
+    correspondence: dict[str, str],
+) -> pd.DataFrame:
+    """
+    Assigns metadata to BGCs based on their new identifiers provided in a list.
+    Returns a pandas DataFrame with metadata entries for the BGCs with activity,
+    with the 'new_id' as the index of the DataFrame.
+    """
+    # Prepare a list to collect metadata entries
+    metadata_entries = []
+
+    # Invert the correspondence dictionary to map new identifiers to old identifiers
+    inv_correspondence = {v: k for k, v in correspondence.items()}
+
+    # Iterate over the list of BGC identifiers with activity
+    for bgc_id in bgcs_with_activity:
+        bgc_id_cleaned = bgc_id.split(".")[0]  # Remove the '.region001' part
+        old_id = inv_correspondence.get(bgc_id_cleaned)
+
+        if old_id and old_id in metadata:
+            # Append a new dictionary that combines the metadata with the new_id
+            metadata_entries.append({**metadata[old_id], "new_id": bgc_id_cleaned})
+        else:
+            metadata_entries.append(
+                {"error": "Identifier not found", "new_id": bgc_id_cleaned}
+            )
+
+    df = pd.DataFrame(metadata_entries)
+    df.set_index("new_id", inplace=True)
+
+    return df
