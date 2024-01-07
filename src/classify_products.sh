@@ -54,7 +54,7 @@ for gbk_file in "$input_dir/antiSMASH_output/"*.gbk; do
           --seed 42 \
           --no_SSN \
           --antismash_version 5 \
-          --rgi_version 5
+          --rgi_version 3
     else
         echo "Warning: No matching txt file for $gbk_file"
     fi

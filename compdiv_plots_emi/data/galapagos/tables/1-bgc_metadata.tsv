@@ -1,0 +1,555 @@
+seq_id	function	taxonomy	novelty	gcf_id
+SRR12042300__k127_246069	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium	1.18086349594676	334
+SRR12042300__k127_84473	NRPS-like	-_cellular organisms;d_Bacteria	0.942347631879344	133
+SRR12042300__k127_6814	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.14756867778937	241
+SRR12042300__k127_504372	terpene	-_cellular organisms	1.13451695133713	241
+SRR12042300__k127_340533	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae	1.13451695133713	241
+SRR12042300__k127_97478	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.25753084878695	527
+SRR12042300__k127_187712	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.26469166151602	527
+SRR12042300__k127_357264	terpene	-_cellular organisms	1.20639907928227	391
+SRR12042300__k127_35923	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.04553615990089	334
+SRR12042300__k127_451808	betalactone	-_cellular organisms;d_Bacteria	1.16506713555006	277
+SRR12042324__k127_72982	terpene	-_cellular organisms;d_Bacteria	1.1893107063467	3
+SRR12042324__k127_137906	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales	1.06611159386335	541
+SRR12042324__k127_232773	RiPP-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales	1.27035347028211	51
+SRR12042324__k127_233135	terpene	-_cellular organisms;d_Bacteria	1.01656512367468	334
+SRR12042324__k127_108686	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales	1.24383497102984	769
+SRR12042324__k127_16056	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota	1.06173100513865	97
+SRR12042324__k127_46647	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales	1.20652728065973	286
+SRR12042324__k127_172037	T3PKS	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.955059683247983	595
+SRR12042324__k127_237567	T1PKS	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661	0.777753021537806	1015
+SRR12042324__k127_204563	T3PKS	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.15961868648981	497
+SRR12042333__k127_594140	NRPS	-_cellular organisms	0.973089490579541	874
+SRR12042333__k127_682131	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Cytophagia;o_Cytophagales;f_Cytophagaceae;g_Cytophaga;s_Cytophaga hutchinsonii;-_Cytophaga hutchinsonii ATCC 33406	1.19800655054126	220
+SRR12042334__k127_72781	ranthipeptide	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Mycobacteriales;f_Mycobacteriaceae	1.01913694190435	454
+SRR12042334__k127_144103	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.977758856640092	241
+SRR12042334__k127_292435	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.16711269181595	342
+SRR12042334__k127_446396	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.06781181579148	541
+SRR12042334__k127_341264	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.251547406057	157
+SRR12042335__k127_98354	terpene	-_cellular organisms	1.19766124005945	391
+SRR12042335__k127_295645	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.01117135203153	391
+SRR12042335__k127_209364	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.745565780143809	948
+SRR12042326__k127_410921	NRPS-like	-_cellular organisms;d_Eukaryota	1.05495299849511	259
+SRR12042326__k127_12082	T1PKS	-_cellular organisms	0.901992166622377	1015
+SRR12042326__k127_358076	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.18034745892177	97
+SRR12042326__k127_139176	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.00763975290633	391
+SRR12042326__k127_139416	terpene	-_root	1.10402288659024	16
+SRR12042326__k127_140223	NRPS-like	-_cellular organisms;d_Eukaryota	1.13622315002422	883
+SRR12042326__k127_192953	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.27804380707704	391
+SRR12042326__k127_193146	NRPS-like	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.01391250880981	613
+SRR12042326__k127_199511	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia	1.1724042906174	690
+SRR12042326__k127_433292	terpene	-_cellular organisms;d_Bacteria	1.13774861327091	553
+SRR12042345__k127_334194	terpene	-_cellular organisms	1.17341767077665	391
+SRR12042345__k127_347696	betalactone	-_cellular organisms;d_Bacteria	1.12128999983112	277
+SRR12042345__k127_508419	NRPS	-_cellular organisms	0.973089490579541	874
+SRR12042346__k127_385925	terpene	-_cellular organisms	1.21070525437729	391
+SRR12042346__k127_485138	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus;s_Synechococcus elongatus;-_Synechococcus elongatus PCC 7942 = FACHB-805	1.18908421968467	391
+SRR12042346__k127_592088	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.20348812989301	80
+SRR12042346__k127_695203	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.874171231488725	241
+SRR12042346__k127_640506	terpene	-_root	1.20055018782515	391
+SRR12042346__k127_567501	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.03700677228488	369
+SRR12042346__k127_659342	NRPS	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Saccharopolyspora;s_Saccharopolyspora erythraea	1.0161654302108	874
+SRR12042346__k127_671392	terpene	-_cellular organisms;d_Eukaryota	1.24588511853771	527
+SRR12042320__k127_343786	terpene	-_cellular organisms	0.912204356666404	334
+SRR12042320__k127_411949	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.21916734290063	302
+SRR12042320__k127_39678	terpene	-_cellular organisms;d_Bacteria	0.966595349328283	334
+SRR12042320__k127_246006	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.734135319208357	241
+SRR12042321__k127_109620	terpene	-_cellular organisms;d_Bacteria	1.012751623876	334
+SRR12042321__k127_254644	betalactone	-_cellular organisms;d_Bacteria	1.20737817827057	527
+SRR12042321__k127_186198	terpene	-_cellular organisms;d_Bacteria	1.17383097257442	396
+SRR12042321__k127_114427	terpene	-_cellular organisms;d_Bacteria	1.1884942828089	391
+SRR12042321__k127_406152	terpene	-_cellular organisms;d_Bacteria	1.11589239640606	334
+SRR12042337__k127_596641	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium	1.07034683270575	334
+SRR12042337__k127_600048	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.999373629508245	369
+SRR12042337__k127_316609	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.890131050538578	241
+SRR12042337__k127_318853	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.16928484920388	391
+SRR12042337__k127_323267	terpene	-_cellular organisms;d_Bacteria	1.10696187740142	241
+SRR12042337__k127_46950	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa	1.24700145932392	97
+SRR12042337__k127_427117	terpene	-_cellular organisms;d_Bacteria	0.92908189280769	334
+SRR12042337__k127_715179	terpene	-_cellular organisms;d_Bacteria	0.947352721890019	334
+SRR12042337__k127_149944	terpene	-_cellular organisms;d_Bacteria	1.2211537086777	391
+SRR12042337__k127_337949	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae	1.1248343941948	334
+SRR12042337__k127_743763	terpene	-_cellular organisms;d_Bacteria	1.27816149030728	391
+SRR12042337__k127_79519	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.01117135203153	391
+SRR12042338__k127_296203	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.965784550400476	241
+SRR12042338__k127_301604	terpene	-_cellular organisms	1.19766124005945	391
+SRR12042338__k127_448390	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	0.995363246652704	241
+SRR12042338__k127_881546	terpene	-_cellular organisms;d_Bacteria	1.20933607965413	396
+SRR12042338__k127_889333	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.996975210287767	369
+SRR12042338__k127_606947	terpene	-_cellular organisms;d_Bacteria	1.28532426000026	391
+SRR12042338__k127_937119	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	0.999373629508245	369
+SRR12042338__k127_1078723	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.728154212496937	948
+SRR12042339__k127_184657	terpene	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda	1.19043239628946	391
+SRR12042339__k127_460685	nucleoside	-_root	1.13380109243136	800
+SRR12042339__k127_636672	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.05384314028259	334
+SRR12042339__k127_556355	arylpolyene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae	0.986890337566487	1045
+SRR12042339__k127_562229	arylpolyene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.08252555933797	948
+SRR12042339__k127_654163	terpene	-_cellular organisms	1.00634075235579	334
+SRR12042339__k127_224971	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.0079093626456	391
+SRR12042339__k127_145944	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.21916734290063	302
+SRR12042339__k127_334921	terpene	-_cellular organisms;d_Bacteria	0.947084247330557	334
+SRR12042339__k127_596939	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.26469166151602	527
+SRR12042321__k127_411670	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.728154212496937	948
+SRR12042321__k127_137518	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	0.993793745315518	391
+SRR12042322__k127_50045	terpene	-_cellular organisms	0.953524453525525	334
+SRR12042322__k127_956	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.00362342551629	321
+SRR12042322__k127_149989	terpene	-_cellular organisms;d_Bacteria	1.14300772249387	334
+SRR12042322__k127_101828	terpene	-_cellular organisms;d_Bacteria	1.28747577045268	690
+SRR12042322__k127_102446	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12	1.28532426000026	391
+SRR12042322__k127_7378	terpene	-_cellular organisms;d_Bacteria	1.27816149030728	391
+SRR12042322__k127_81417	betalactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.11133562590866	534
+SRR12042322__k127_156227	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales	1.19090204693058	14
+SRR12042339__k127_255334	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.73236712379285	948
+SRR12042340__k127_361394	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.27442094019251	131
+SRR12042340__k127_375049	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.05313341989102	334
+SRR12042343__k127_1231	terpene	-_cellular organisms	1.20639907928227	391
+SRR12042343__k127_500493	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.19052175167597	342
+SRR12042343__k127_303127	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.08379522377106	334
+SRR12042343__k127_403170	terpene	-_cellular organisms;d_Bacteria	1.24307143455385	527
+SRR12042343__k127_11008	terpene	-_cellular organisms	1.1647445049143	241
+SRR12042343__k127_405722	RRE-containing	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.24229999963781	158
+SRR12042343__k127_610918	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides thetaiotaomicron;-_Bacteroides thetaiotaomicron VPI-5482	1.28689069532724	690
+SRR12042343__k127_711241	terpene	-_cellular organisms;d_Eukaryota	1.11466245864618	97
+SRR12042343__k127_638519	NRPS-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12	0.937605029539041	133
+SRR12042343__k127_646046	NRPS	-_cellular organisms	0.973089490579541	874
+SRR12042313__k127_187063	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.15993730238084	97
+SRR12042313__k127_305310	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.11589239640606	334
+SRR12042313__k127_425152	NRPS-like	-_cellular organisms;d_Eukaryota	1.16692436616319	1341
+SRR12042313__k127_76917	terpene	-_cellular organisms;d_Archaea	1.16219060194808	97
+SRR12042313__k127_442416	NRPS-like	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.01391250880981	613
+SRR12042313__k127_269600	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.14756867778937	241
+SRR12042313__k127_160901	terpene	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda	1.21070525437729	391
+SRR12042313__k127_456877	NRPS-like	-_cellular organisms	1.01657097068488	133
+SRR12042313__k127_111657	terpene	NA	1.09131121365269	11
+SRR12042313__k127_345574	betalactone	-_cellular organisms;d_Bacteria	1.11728588871484	277
+SRR12042343__k127_755101	terpene	-_cellular organisms;d_Bacteria	1.27816149030728	391
+SRR12042343__k127_70808	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	0.947352721890019	334
+SRR12042343__k127_176830	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.728085732279889	948
+SRR12042343__k127_469383	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.26469166151602	527
+SRR12042344__k127_116654	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.732435203714365	948
+SRR12042344__k127_690427	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.26469166151602	527
+SRR12042344__k127_692393	terpene	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda	1.18074543167994	391
+SRR12042344__k127_582866	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.04931732571659	369
+SRR12042344__k127_13271	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae	1.1647445049143	241
+SRR12042344__k127_818231	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.1867935496812	391
+SRR12042314__k127_332391	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.728154212496937	948
+SRR12042314__k127_400221	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.09131121365269	11
+SRR12042314__k127_271978	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.01538014249688	369
+SRR12042314__k127_406205	NRPS-like	-_cellular organisms	1.01657097068488	133
+SRR12042314__k127_277460	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.27804380707704	391
+SRR12042314__k127_12972	terpene	-_cellular organisms;d_Bacteria	1.21070525437729	391
+SRR12042314__k127_80666	NRPS-like	-_root	1.00195458198586	613
+SRR12042314__k127_85262	terpene	-_cellular organisms;d_Bacteria	1.20933607965413	396
+SRR12042314__k127_89736	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042314__k127_503177	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.18034745892177	97
+SRR12042319__k127_184385	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.729595391023435	948
+SRR12042319__k127_382982	betalactone	-_cellular organisms;d_Bacteria	1.17159018669991	277
+SRR12042319__k127_388165	terpene	-_cellular organisms;d_Bacteria	0.979418018340012	334
+SRR12042320__k127_322057	betalactone	-_cellular organisms;d_Bacteria	1.15032022963739	277
+SRR12042320__k127_458439	terpene	-_cellular organisms;d_Bacteria	1.18436434705223	396
+SRR12042325__k127_57252	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042325__k127_178232	terpene	-_cellular organisms;d_Bacteria	0.923667729746064	334
+SRR12042325__k127_138038	terpene	-_cellular organisms;d_Bacteria	1.01290363774204	334
+SRR12042325__k127_102378	terpene	-_cellular organisms;d_Bacteria	0.998577650997611	334
+SRR12042325__k127_307318	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.25117250815886	690
+SRR12042332__k127_752981	NRPS	-_cellular organisms	0.973089490579541	874
+SRR12042332__k127_224021	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.937344503416561	241
+SRR12042332__k127_675985	terpene	-_cellular organisms;d_Bacteria	1.19800655054126	220
+SRR12042332__k127_41097	terpene	-_cellular organisms	1.15646480428542	3
+SRR12042332__k127_471459	betalactone	-_cellular organisms;d_Bacteria	1.12128999983112	277
+SRR12042332__k127_475832	terpene	-_cellular organisms	1.1251427889122	541
+SRR12042332__k127_811672	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.07675532446096	334
+SRR12042332__k127_193310	terpene	-_cellular organisms;d_Bacteria	1.17369553545845	241
+SRR12042332__k127_93021	T3PKS	-_cellular organisms;d_Bacteria	1.13925636325133	465
+SRR12042333__k127_519326	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus;s_Synechococcus elongatus;-_Synechococcus elongatus PCC 7942 = FACHB-805	1.18908421968467	391
+SRR12042317__k127_179417	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.733834002518255	948
+SRR12042317__k127_69256	terpene	-_cellular organisms	1.17628272286427	97
+SRR12042317__k127_76964	betalactone	-_cellular organisms;d_Bacteria	1.12846670567381	277
+SRR12042317__k127_139889	terpene	-_cellular organisms;d_Bacteria	1.29365802248357	391
+SRR12042317__k127_33562	betalactone	-_cellular organisms;d_Bacteria	1.17822102401617	527
+SRR12042317__k127_148315	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042318__k127_75002	betalactone	-_cellular organisms;d_Bacteria	1.18079134238582	527
+SRR12042318__k127_526026	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.745565780143809	948
+SRR12042318__k127_233326	terpene	-_cellular organisms;d_Bacteria	1.18436434705223	396
+SRR12042318__k127_534028	terpene	-_cellular organisms	1.1391896755252	3
+SRR12042325__k127_210514	T3PKS	-_cellular organisms;d_Bacteria	0.762872759649275	948
+SRR12042325__k127_250933	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	0.998481679582607	334
+SRR12042325__k127_253257	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter	1.19505372158006	391
+SRR12042325__k127_256228	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	1.05150329047374	391
+SRR12042325__k127_298929	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales	1.27939965624457	78
+SRR12042325__k127_53893	terpene	-_cellular organisms;d_Bacteria	1.05562589424566	334
+SRR12042325__k127_301101	terpene	-_cellular organisms;d_Bacteria	1.15152365876265	334
+SRR12042325__k127_134443	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.10726812507029	241
+SRR12042332__k127_536914	arylpolyene	-_cellular organisms;d_Bacteria	0.89979570879541	948
+SRR12042332__k127_325384	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	0.997977239986733	334
+SRR12042328__k127_209534	terpene	-_cellular organisms;d_Bacteria	1.1391896755252	16
+SRR12042328__k127_7174	terpene	-_cellular organisms;d_Bacteria	1.20933607965413	396
+SRR12042328__k127_10645	terpene	-_cellular organisms	1.19766124005945	391
+SRR12042328__k127_284481	terpene	-_cellular organisms	0.927818554337654	334
+SRR12042328__k127_355775	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.13326144589905	97
+SRR12042328__k127_23296	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.03339630998806	334
+SRR12042328__k127_360949	terpene	-_cellular organisms;d_Bacteria	1.0562484879105	334
+SRR12042328__k127_234098	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.14251202288572	391
+SRR12042328__k127_235904	T3PKS	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.15961868648981	497
+SRR12042328__k127_442246	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.20993346024601	97
+SRR12042315__k127_378960	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.27804380707704	391
+SRR12042315__k127_246620	NRPS-like	-_cellular organisms;d_Eukaryota	1.05495299849511	259
+SRR12042316__k127_549	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042316__k127_427412	terpene	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda	1.19766124005945	391
+SRR12042316__k127_81068	betalactone	-_cellular organisms;d_Bacteria	1.18079134238582	527
+SRR12042316__k127_433722	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.714116639119799	948
+SRR12042316__k127_113537	terpene	-_cellular organisms;d_Bacteria	1.26869265952904	391
+SRR12042316__k127_401505	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.728154212496937	948
+SRR12042316__k127_405448	resorcinol	-_cellular organisms;d_Eukaryota	1.14432580812097	412
+SRR12042316__k127_419102	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Kitasatosporales;f_Streptomycetaceae;g_Streptomyces;-_Streptomyces griseus group;-_Streptomyces griseus subgroup;s_Streptomyces griseus	1.05404627457499	334
+SRR12042328__k127_305859	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	0.881013948003883	334
+SRR12042328__k127_50930	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Mycobacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis	1.27816149030728	391
+SRR12042328__k127_391219	betalactone	-_cellular organisms;d_Bacteria	1.19644972154378	527
+SRR12042328__k127_460435	terpene	-_cellular organisms	1.17296151745039	97
+SRR12042328__k127_402247	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota	0.894427190999916	16
+SRR12042328__k127_402527	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.11589239640606	334
+SRR12042329__k127_212952	terpene	-_cellular organisms	1.19766124005945	391
+SRR12042329__k127_384880	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.06131138459724	541
+SRR12042329__k127_538718	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	0.947352721890019	334
+SRR12042330__k127_377966	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.728154212496937	948
+SRR12042322__k127_91065	terpene	-_cellular organisms;d_Bacteria	0.950387437097501	334
+SRR12042322__k127_143160	terpene	-_cellular organisms;d_Bacteria	1.22450512408295	391
+SRR12042322__k127_192163	terpene	-_cellular organisms;d_Bacteria	1.04788839094479	334
+SRR12042322__k127_194133	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.03595542999853	241
+SRR12042322__k127_196069	RiPP-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	1.20971263475223	420
+SRR12042322__k127_48064	terpene	-_cellular organisms;d_Bacteria	1.03524494246316	391
+SRR12042322__k127_122631	hserlactone	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.13349852145972	612
+SRR12042323__k127_5933	terpene	-_cellular organisms	1.10402288659025	3
+SRR12042323__k127_103287	betalactone	-_cellular organisms;d_Bacteria	1.17104713792592	277
+SRR12042323__k127_425323	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.04931732571659	369
+SRR12042335__k127_24108	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.16180324783459	97
+SRR12042335__k127_318842	terpene	-_cellular organisms	1.1647445049143	241
+SRR12042335__k127_737364	NRPS	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales	0.823565947307936	284
+SRR12042335__k127_663324	terpene	-_cellular organisms;d_Bacteria	1.10193369777394	334
+SRR12042335__k127_680481	NRPS	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Saccharopolyspora;s_Saccharopolyspora erythraea	1.0161654302108	874
+SRR12042336__k127_747587	NRPS	-_cellular organisms	0.973089490579541	874
+SRR12042336__k127_644298	terpene	-_cellular organisms;d_Archaea	1.20967634124657	97
+SRR12042336__k127_651016	terpene	-_cellular organisms	1.1647445049143	241
+SRR12042336__k127_758568	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.1867935496812	391
+SRR12042336__k127_243732	terpene	-_cellular organisms	1.2211537086777	391
+SRR12042330__k127_36938	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae	1.1647445049143	241
+SRR12042330__k127_201984	betalactone	-_cellular organisms;d_Bacteria	1.12128999983112	277
+SRR12042331__k127_362924	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.745565780143809	948
+SRR12042331__k127_600817	T1PKS	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.739595244361303	1015
+SRR12042331__k127_487584	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.15123522498708	541
+SRR12042331__k127_134134	betalactone	-_cellular organisms;d_Bacteria	1.16506713555006	277
+SRR12042331__k127_624208	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae	1.1647445049143	241
+SRR12042331__k127_35689	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.26469166151602	527
+SRR12042331__k127_64277	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.0439526256414	241
+SRR12042331__k127_913638	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.590938676813848	241
+SRR12042327__k127_69014	terpene	-_cellular organisms;d_Eukaryota	1.23473676144131	809
+SRR12042327__k127_179159	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.57465981679515	241
+SRR12042327__k127_345601	terpene	-_cellular organisms	1.1292220198904	553
+SRR12042327__k127_237060	NRPS-like	-_cellular organisms;d_Eukaryota	1.01391250880981	613
+SRR12042327__k127_292376	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12	1.27816149030728	391
+SRR12042327__k127_25218	terpene	-_cellular organisms;d_Eukaryota	1.16771527450226	97
+SRR12042327__k127_246849	T3PKS	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Aeromonadales;f_Aeromonadaceae;g_Aeromonas;s_Aeromonas hydrophila	0.811591659561153	948
+SRR12042327__k127_246930	NRPS-like	-_cellular organisms;d_Eukaryota	1.13767142921268	618
+SRR12042327__k127_417911	terpene	-_cellular organisms	1.19766124005945	391
+SRR12042327__k127_419296	NRPS-like	-_cellular organisms;d_Eukaryota	1.04165870277077	259
+SRR12042323__k127_621285	NRPS-like	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	0.991103745558732	133
+SRR12042323__k127_628668	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.02817588243477	241
+SRR12042323__k127_766261	terpene	-_cellular organisms;d_Bacteria	1.12800404471394	16
+SRR12042324__k127_157464	RiPP-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	1.211060141639	420
+SRR12042324__k127_97321	terpene	-_cellular organisms;d_Bacteria	1.28969821383405	690
+SRR12042324__k127_34648	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.922740302078892	241
+SRR12042324__k127_223021	terpene	-_cellular organisms;d_Bacteria	1.20788998638102	3
+SRR12042324__k127_99999	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.13745476458332	391
+SRR12042324__k127_225672	terpene	-_cellular organisms;d_Bacteria	0.930319120283961	334
+SRR12042324__k127_6356	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.976299485597905	241
+SRR12042305__k127_33627	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa	1.22626668624245	541
+SRR12042305__k127_123363	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.03791784957208	391
+SRR12042305__k127_445411	T1PKS	-_cellular organisms	0.75079506120749	1015
+SRR12042305__k127_142394	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.745565780143809	948
+SRR12042305__k127_304712	nucleoside	-_cellular organisms;d_Bacteria	1.01256228646687	800
+SRR12042306__k127_11084	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.26856172946734	391
+SRR12042306__k127_92394	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.04546731522816	334
+SRR12042306__k127_486684	nucleoside	-_cellular organisms;d_Bacteria	1.03349114239007	800
+SRR12042307__k127_306496	NRPS-like	-_cellular organisms	1.14025783475354	1109
+SRR12042307__k127_313880	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.09131121365269	11
+SRR12042311__k127_251338	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.23582760637105	1026
+SRR12042311__k127_403789	betalactone	-_cellular organisms;d_Bacteria	1.18491374767245	527
+SRR12042311__k127_404379	betalactone	-_cellular organisms;d_Bacteria	1.12715761912437	277
+SRR12042311__k127_489047	NRPS-like	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.13002953054624	883
+SRR12042311__k127_572039	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.09131121365269	11
+SRR12042311__k127_278702	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.27804380707704	391
+SRR12042311__k127_581698	NRPS-like	-_cellular organisms	1.10755181030291	210
+SRR12042311__k127_507006	T3PKS	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.04111431370677	285
+SRR12042311__k127_512612	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.13326144589905	97
+SRR12042311__k127_220151	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042315__k127_262506	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.13326144589905	97
+SRR12042315__k127_401377	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.13326144589905	97
+SRR12042315__k127_206451	NRPS-like	-_cellular organisms;d_Eukaryota	1.16350479830463	1341
+SRR12042315__k127_340411	NRPS-like	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.01391250880981	613
+SRR12042315__k127_149380	terpene	-_cellular organisms;d_Archaea	1.18074543167994	391
+SRR12042315__k127_219377	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.728154212496937	948
+SRR12042315__k127_484119	terpene	-_cellular organisms;d_Bacteria	1.10364903580821	553
+SRR12042315__k127_290164	terpene	-_cellular organisms;d_Bacteria	1.30135125858243	391
+SRR12042315__k127_224715	betalactone	-_cellular organisms;d_Bacteria	1.22478417914345	527
+SRR12042315__k127_117113	betalactone	-_cellular organisms;d_Bacteria	1.16847559025914	527
+SRR12042331__k127_205133	terpene	-_cellular organisms	1.20639907928227	391
+SRR12042331__k127_206158	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.27442094019251	131
+SRR12042331__k127_347945	terpene	-_cellular organisms;d_Bacteria	0.996161157990233	97
+SRR12042331__k127_351501	T3PKS	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Mycobacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis;-_Mycobacterium tuberculosis H37Rv	0.840073910857838	497
+SRR12042332__k127_217043	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.745565780143809	948
+SRR12042340__k127_200657	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.03961874884566	334
+SRR12042340__k127_39463	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.814065017061875	241
+SRR12042340__k127_252721	arylpolyene	-_cellular organisms;d_Bacteria	0.770116672501148	948
+SRR12042340__k127_430224	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	0.993793745315518	391
+SRR12042340__k127_614912	NRPS	-_cellular organisms	0.973089490579541	874
+SRR12042324__k127_132326	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	1.05612874348499	489
+SRR12042324__k127_68840	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.11378348955626	391
+SRR12042324__k127_227020	terpene	-_cellular organisms;d_Bacteria	0.985403548253822	391
+SRR12042324__k127_163962	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.17899273607313	391
+SRR12042324__k127_8885	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12	1.28532426000026	391
+SRR12042324__k127_39402	hserlactone	-_cellular organisms;d_Bacteria	1.1652958989141	612
+SRR12042324__k127_134878	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.17723888917408	796
+SRR12042324__k127_9766	betalactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	1.15372436355017	534
+SRR12042324__k127_136458	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.03256001058112	334
+SRR12042324__k127_198795	terpene	-_cellular organisms;d_Bacteria	1.09299030534329	334
+SRR12042303__k127_362053	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.622220016702639	241
+SRR12042303__k127_129292	T3PKS	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales	1.13031622602746	497
+SRR12042303__k127_239794	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.728154212496937	948
+SRR12042303__k127_568776	NRPS	-_cellular organisms;d_Bacteria	0.958573366376764	143
+SRR12042304__k127_465527	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168	0.999739345735722	334
+SRR12042304__k127_101805	NRPS-like	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Kitasatosporales;f_Streptomycetaceae;g_Streptomyces	1.03118755052675	133
+SRR12042304__k127_568486	T3PKS	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.15447010978399	497
+SRR12042304__k127_15317	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042304__k127_686077	terpene	-_cellular organisms	1.1867935496812	391
+SRR12042304__k127_695352	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.01125669564897	241
+SRR12042302__k127_618153	terpene	-_cellular organisms;d_Bacteria	1.28532426000026	391
+SRR12042302__k127_223489	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.08823989955133	334
+SRR12042302__k127_619273	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.1647445049143	241
+SRR12042302__k127_624696	terpene	-_cellular organisms;d_Bacteria	1.20673450052323	249
+SRR12042302__k127_630406	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae	1.15988750435856	334
+SRR12042302__k127_238169	terpene	-_cellular organisms;d_Bacteria	1.17697206740752	22
+SRR12042302__k127_644438	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.26469166151602	527
+SRR12042302__k127_551131	terpene	-_cellular organisms	0.985396227799387	334
+SRR12042302__k127_251442	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales	1.22400943100744	14
+SRR12042302__k127_252063	terpene	-_cellular organisms;d_Bacteria;-_PVC group;p_Chlamydiota;c_Chlamydiia;o_Parachlamydiales;f_Parachlamydiaceae;g_Candidatus Protochlamydia;s_Candidatus Protochlamydia amoebophila;-_Candidatus Protochlamydia amoebophila UWE25	1.12873205272643	97
+SRR12042312__k127_450912	NRPS	-_cellular organisms	0.903202199265749	133
+SRR12042312__k127_307468	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.25396043332074	195
+SRR12042312__k127_456919	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	0.966595349328283	334
+SRR12042312__k127_174990	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.0355438346755	241
+SRR12042312__k127_110076	terpene	-_cellular organisms	1.19766124005945	391
+SRR12042312__k127_58836	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.13451695133713	241
+SRR12042312__k127_205861	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae	1.1647445049143	241
+SRR12042312__k127_359612	NRPS-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.989686161292167	210
+SRR12042312__k127_508802	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.01538014249688	369
+SRR12042313__k127_295578	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.20993346024601	97
+SRR12042322__k127_133606	hglE-KS	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661	1.09164068488148	1015
+SRR12042322__k127_134226	terpene	-_cellular organisms;d_Bacteria	1.12805016255575	334
+SRR12042322__k127_135133	terpene	-_cellular organisms	1.15646480428542	3
+SRR12042322__k127_11857	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	0.983705095235142	334
+SRR12042322__k127_110542	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota	1.06173100513865	97
+SRR12042322__k127_160723	terpene	-_cellular organisms;d_Bacteria	1.20788998638102	3
+SRR12042322__k127_186865	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Halalkalibacterium (ex Joshi et al. 2022);s_Halalkalibacterium halodurans;-_Halalkalibacterium halodurans C-125	1.16449032921705	391
+SRR12042322__k127_13919	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.17899273607313	391
+SRR12042322__k127_89038	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.01204813555062	334
+SRR12042322__k127_164258	terpene	-_cellular organisms;d_Bacteria;p_Myxococcota;c_Myxococcia;o_Myxococcales;-_Cystobacterineae;f_Myxococcaceae;g_Myxococcus;s_Myxococcus xanthus;-_Myxococcus xanthus DK 1622	1.21063873441702	690
+SRR12042344__k127_135043	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.606780960866412	241
+SRR12042344__k127_157102	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	0.912204356666404	334
+SRR12042344__k127_395061	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	1.00656973938749	334
+SRR12042344__k127_743667	terpene	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda	1.20639907928227	391
+SRR12042344__k127_312077	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium	1.14862363937518	334
+SRR12042345__k127_157523	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.10190294606929	541
+SRR12042345__k127_306415	terpene	-_cellular organisms;d_Bacteria	1.18820816968564	391
+SRR12042345__k127_168988	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	0.974950034509622	334
+SRR12042345__k127_544372	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.25753084878695	527
+SRR12042345__k127_30120	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.795268626177429	241
+SRR12042340__k127_68689	T3PKS	-_cellular organisms;d_Bacteria	1.12002791616241	465
+SRR12042340__k127_261785	NRPS-like	-_cellular organisms	1.04295297620927	883
+SRR12042340__k127_527049	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.25519936984865	391
+SRR12042341__k127_719430	betalactone	-_cellular organisms;d_Bacteria	1.16417275911099	277
+SRR12042341__k127_520160	terpene	-_cellular organisms;d_Bacteria	0.908159392048389	334
+SRR12042341__k127_235949	T1PKS	NA	0.669156956057034	967
+SRR12042341__k127_342952	T3PKS	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria	1.02446223545474	122
+SRR12042341__k127_347979	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa	1.24700145932392	97
+SRR12042341__k127_246511	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.05701668079845	391
+SRR12042341__k127_94475	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.05893223439952	391
+SRR12042333__k127_90106	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.26856172946734	391
+SRR12042333__k127_6519	T3PKS	-_cellular organisms	1.06122080054372	465
+SRR12042333__k127_620311	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.03937094956657	334
+SRR12042333__k127_279759	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus;s_Synechococcus elongatus;-_Synechococcus elongatus PCC 7942 = FACHB-805	1.18595457726106	553
+SRR12042333__k127_106891	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Prochlorococcaceae	1.08922060482041	541
+SRR12042333__k127_29283	terpene	-_cellular organisms;d_Bacteria	1.20664975679975	690
+SRR12042333__k127_547454	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.26469166151602	527
+SRR12042333__k127_34951	terpene	-_cellular organisms	1.20124377140905	97
+SRR12042333__k127_131576	arylpolyene	-_cellular organisms;d_Bacteria	0.784803921488164	948
+SRR12042333__k127_63095	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.03170454325227	391
+SRR12042336__k127_368544	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.23146507119966	13
+SRR12042336__k127_77008	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042336__k127_292970	terpene	-_cellular organisms;d_Bacteria	1.10551143446705	16
+SRR12042337__k127_666951	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	1.0745762223233	334
+SRR12042337__k127_101712	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.890411672598804	241
+SRR12042337__k127_678854	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae	1.1867935496812	391
+SRR12042337__k127_585228	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.29946296273711	391
+SRR12042337__k127_395286	betalactone	-_cellular organisms;d_Bacteria	1.17104713792592	277
+SRR12042337__k127_113103	arylpolyene	-_cellular organisms;d_Bacteria;p_Myxococcota;c_Myxococcia;o_Myxococcales;-_Cystobacterineae;f_Myxococcaceae;g_Myxococcus;s_Myxococcus xanthus	1.06921597141397	948
+SRR12042337__k127_306537	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.946677547757499	241
+SRR12042307__k127_444371	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.25749714787444	69
+SRR12042307__k127_151115	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	0.925497144295915	334
+SRR12042307__k127_387666	NRPS-like	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.01391250880981	613
+SRR12042307__k127_452455	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.20993346024601	97
+SRR12042307__k127_33701	terpene	-_cellular organisms;d_Archaea	1.13774861327091	553
+SRR12042307__k127_223073	NRPS-like	-_cellular organisms;d_Eukaryota	1.01657097068488	133
+SRR12042307__k127_114605	terpene	-_cellular organisms;d_Bacteria	1.12438107090881	16
+SRR12042308__k127_429764	RiPP-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas	1.04786676939228	31
+SRR12042308__k127_292766	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.09131121365269	11
+SRR12042308__k127_371637	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.27804380707704	391
+SRR12042304__k127_246529	terpene	-_cellular organisms;d_Bacteria	1.04692410303971	334
+SRR12042304__k127_246529	terpene	-_cellular organisms;d_Bacteria	1.04692410303971	334
+SRR12042304__k127_167465	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus;s_Synechococcus elongatus;-_Synechococcus elongatus PCC 7942 = FACHB-805	1.18086515545369	591
+SRR12042304__k127_443739	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.26469166151602	527
+SRR12042304__k127_71547	terpene	-_cellular organisms;d_Bacteria	1.26869265952904	391
+SRR12042304__k127_722110	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides thetaiotaomicron;-_Bacteroides thetaiotaomicron VPI-5482	1.28532426000026	391
+SRR12042304__k127_448671	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.14207948538319	369
+SRR12042305__k127_397283	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.784540052412485	241
+SRR12042305__k127_322209	terpene	-_cellular organisms	1.20639907928227	391
+SRR12042305__k127_105641	betalactone	-_cellular organisms;d_Bacteria	1.15225166836477	277
+SRR12042305__k127_344931	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	0.942857231300007	391
+SRR12042338__k127_940368	terpene	-_cellular organisms	1.14432407770783	16
+SRR12042338__k127_666517	terpene	-_cellular organisms;d_Bacteria	1.04466285613516	334
+SRR12042338__k127_243994	terpene	-_cellular organisms;d_Bacteria	1.24307143455385	527
+SRR12042338__k127_686792	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Caulobacter;s_Caulobacter vibrioides;-_Caulobacter vibrioides CB15	1.14421591159908	338
+SRR12042338__k127_129465	terpene	-_cellular organisms;d_Bacteria	1.18708080740074	97
+SRR12042338__k127_282266	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	0.864232949380202	334
+SRR12042338__k127_554377	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	0.983705095235142	334
+SRR12042339__k127_346240	terpene	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda	1.19766124005945	391
+SRR12042339__k127_347144	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.06164813974072	391
+SRR12042339__k127_438021	terpene	-_cellular organisms	1.1647445049143	241
+SRR12042309__k127_169851	terpene	-_cellular organisms	1.19766124005945	391
+SRR12042310__k127_211008	terpene	-_cellular organisms;d_Archaea	1.22660764129902	97
+SRR12042310__k127_504749	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.21090017990287	241
+SRR12042310__k127_316386	betalactone	-_cellular organisms;d_Bacteria	1.12128999983112	277
+SRR12042311__k127_74534	terpene	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetota;c_Planctomycetia;o_Pirellulales;f_Pirellulaceae;g_Rhodopirellula;s_Rhodopirellula baltica;-_Rhodopirellula baltica SH 1	1.09131121365269	97
+SRR12042311__k127_307649	NRPS-like	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.01391250880981	613
+SRR12042311__k127_15309	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.30438039381962	391
+SRR12042311__k127_92181	terpene	-_cellular organisms	1.25534914911714	391
+SRR12042311__k127_93539	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.20993346024601	97
+SRR12042311__k127_247973	terpene	-_cellular organisms	1.21070525437729	391
+SRR12042308__k127_303065	NRPS-like	-_cellular organisms;d_Eukaryota	1.01391250880981	613
+SRR12042308__k127_451880	NRPS-like	-_cellular organisms;d_Eukaryota	1.05495299849511	259
+SRR12042308__k127_102791	terpene	-_cellular organisms;d_Bacteria	1.10613367538859	241
+SRR12042308__k127_385810	terpene	-_cellular organisms	1.1291826637014	16
+SRR12042308__k127_39783	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.13326144589905	97
+SRR12042308__k127_131843	terpene	-_cellular organisms;d_Bacteria	1.1121336756469	241
+SRR12042308__k127_337603	NRPS-like	-_cellular organisms;d_Eukaryota	1.0168104166253	1109
+SRR12042308__k127_414456	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.20993346024601	97
+SRR12042309__k127_398570	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.0954633709076	334
+SRR12042309__k127_167496	terpene	-_cellular organisms;d_Archaea	1.21890956300023	97
+SRR12042301__k127_445031	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.09320226215136	369
+SRR12042301__k127_150697	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.622220016702639	241
+SRR12042301__k127_157978	betalactone	-_cellular organisms;d_Bacteria	1.15800324122153	277
+SRR12042301__k127_77476	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.05384314028259	334
+SRR12042301__k127_498134	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Candidatus Pelagibacterales;f_Pelagibacteraceae;g_Candidatus Pelagibacter;s_Candidatus Pelagibacter ubique;-_Candidatus Pelagibacter ubique HTCC1062	0.999373629508245	369
+SRR12042302__k127_201188	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168	1.08820487004331	97
+SRR12042302__k127_400925	terpene	-_cellular organisms;d_Bacteria	1.09314924683574	97
+SRR12042302__k127_604391	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.26253674637131	195
+SRR12042302__k127_13011	NRPS-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.14118645742495	133
+SRR12042302__k127_514984	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.01117135203153	391
+SRR12042327__k127_143481	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.09131121365269	11
+SRR12042327__k127_37678	terpene	-_cellular organisms;d_Bacteria	1.20933607965413	396
+SRR12042327__k127_366692	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.27804380707704	391
+SRR12042327__k127_312027	terpene	-_cellular organisms	1.19013052984416	97
+SRR12042327__k127_149197	terpene	-_cellular organisms;d_Archaea	1.18979758603335	97
+SRR12042327__k127_157261	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.944369560632801	241
+SRR12042327__k127_270026	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	0.900381489078992	334
+SRR12042327__k127_327914	T1PKS	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661	0.710186110140641	1015
+SRR12042328__k127_138512	T1PKS	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661	0.708257304080782	1015
+SRR12042328__k127_207798	terpene	-_cellular organisms;d_Archaea	1.13774861327091	553
+SRR12042325__k127_139815	terpene	-_cellular organisms;d_Bacteria	1.27763323509036	342
+SRR12042325__k127_181612	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.02751593378388	391
+SRR12042325__k127_268449	RiPP-like	NA	1.18245559319225	51
+SRR12042325__k127_227657	terpene	-_cellular organisms;d_Bacteria	0.923667729746064	334
+SRR12042325__k127_228702	terpene	-_cellular organisms;d_Bacteria	1.27081560034419	690
+SRR12042325__k127_66381	T3PKS	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	1.08136857393216	853
+SRR12042325__k127_144216	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.877029657197302	241
+SRR12042325__k127_233076	betalactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	0.876584159368277	948
+SRR12042325__k127_188956	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Candidatus Pelagibacterales;f_Pelagibacteraceae;g_Candidatus Pelagibacter;s_Candidatus Pelagibacter ubique;-_Candidatus Pelagibacter ubique HTCC1062	1.04334022692253	241
+SRR12042325__k127_320496	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	0.845914331102307	334
+SRR12042325__k127_192224	T3PKS	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.17147559309648	122
+SRR12042325__k127_30994	terpene	-_cellular organisms;d_Bacteria	0.915385596019313	334
+SRR12042325__k127_35291	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Roseobacteraceae	1.02748359201471	541
+SRR12042325__k127_198697	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.20933607965413	396
+SRR12042325__k127_200923	hserlactone	-_cellular organisms	1.21864373345755	742
+SRR12042326__k127_284673	terpene	-_cellular organisms;d_Bacteria	0.925497144295915	334
+SRR12042326__k127_403670	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.06463009204478	334
+SRR12042326__k127_403794	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana	1.09131121365269	11
+SRR12042326__k127_234370	terpene	-_cellular organisms;d_Bacteria	1.20933607965413	396
+SRR12042326__k127_66367	betalactone	-_cellular organisms;d_Bacteria	1.17823390516176	527
+SRR12042326__k127_156250	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Methylococcales;f_Methylococcaceae;g_Methylomonas;-_unclassified Methylomonas;s_Methylomonas sp.	1.07793931488247	334
+SRR12042326__k127_205018	terpene	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda	1.18074543167994	391
+SRR12042326__k127_167394	terpene	-_cellular organisms;d_Archaea	1.23542493888903	97
+SRR12042326__k127_336287	terpene	-_cellular organisms	1.19505372158006	391
+SRR12042326__k127_390124	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.20993346024601	97
+SRR12042326__k127_56035	hglE-KS	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661	0.850853944585488	883
+SRR12042327__k127_1291	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.14251202288572	391
+SRR12042327__k127_167834	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042327__k127_6159	terpene	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae	1.20993346024601	97
+SRR12042327__k127_64766	terpene	-_cellular organisms	1.21321742680032	97
+SRR12042300__k127_537617	terpene	-_cellular organisms;d_Eukaryota	1.1965322945423	391
+SRR12042300__k127_53433	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.13828476525779	349
+SRR12042300__k127_382636	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.08010978117885	334
+SRR12042300__k127_396348	T3PKS	NA	0.858080127222503	497
+SRR12042300__k127_237189	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae	0.979418018340012	334
+SRR12042301__k127_211734	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.08310531173054	541
+SRR12042301__k127_519223	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium	1.17581086487957	391
+SRR12042301__k127_622706	arylpolyene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria	1.17797604572598	2
+SRR12042301__k127_22801	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.962160002839383	241
+SRR12042301__k127_127534	terpene	-_cellular organisms	0.924415645600913	334
+SRR12042324__k127_79278	terpene	-_cellular organisms;d_Bacteria	0.974500503982246	334
+SRR12042324__k127_240425	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Halalkalibacterium (ex Joshi et al. 2022);s_Halalkalibacterium halodurans;-_Halalkalibacterium halodurans C-125	1.17925333876031	391
+SRR12042324__k127_240525	terpene	-_cellular organisms;d_Bacteria	1.15152365876265	334
+SRR12042324__k127_146925	terpene	-_cellular organisms;d_Bacteria	1.17383097257442	396
+SRR12042324__k127_207376	terpene	-_cellular organisms;d_Bacteria	1.08890035127891	541
+SRR12042324__k127_22356	terpene	-_cellular organisms;d_Bacteria	1.29326211532321	690
+SRR12042324__k127_83557	terpene	-_cellular organisms;d_Bacteria	1.08487811716879	334
+SRR12042324__k127_24509	terpene	-_cellular organisms	0.947352721890019	334
+SRR12042324__k127_151468	terpene	-_cellular organisms;d_Bacteria	0.922259169903654	334
+SRR12042324__k127_179461	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.04334022692253	241
+SRR12042318__k127_94038	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	0.983705095235142	334
+SRR12042318__k127_412603	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus	1.1647445049143	241
+SRR12042318__k127_341831	terpene	-_cellular organisms;d_Bacteria	1.21890956300023	97
+SRR12042318__k127_588595	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.02805881986337	241
+SRR12042319__k127_6370	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	0.966595349328283	334
+SRR12042319__k127_299083	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.922740302078892	241
+SRR12042319__k127_236275	terpene	-_cellular organisms	1.20639907928227	391
+SRR12042319__k127_243364	terpene	-_cellular organisms;d_Bacteria	1.20933607965413	396
+SRR12042319__k127_244663	terpene	-_cellular organisms	1.21070525437729	391
+SRR12042319__k127_444444	terpene	-_cellular organisms;d_Archaea	1.19903229434593	97
+SRR12042302__k127_748050	terpene	-_cellular organisms;d_Bacteria	1.20280342750262	391
+SRR12042302__k127_759734	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	1.05310351537509	334
+SRR12042302__k127_362378	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	1.13828476525779	349
+SRR12042302__k127_566694	T3PKS	NA	1.12421271458472	690
+SRR12042302__k127_473445	terpene	-_cellular organisms;d_Bacteria	1.2211537086777	391
+SRR12042302__k127_171836	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.08310531173054	541
+SRR12042302__k127_375413	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.028598557023	369
+SRR12042303__k127_167771	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.06131138459724	541
+SRR12042303__k127_177596	terpene	-_cellular organisms	1.0293155424321	334
+SRR12042303__k127_514900	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	0.947352721890019	334
+SRR12042324__k127_212808	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales	1.03490382875125	541
+SRR12042324__k127_214825	RiPP-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria	1.18245559319225	51
+SRR12042324__k127_215416	RiPP-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.11933579964297	31
+SRR12042324__k127_89489	RiPP-like	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.10020814669238	31
+SRR12042324__k127_31266	hserlactone	-_cellular organisms	1.21864373345755	742
+SRR12042325__k127_124674	terpene	-_cellular organisms;d_Bacteria	1.02365251104647	334
+SRR12042325__k127_165724	terpene	-_cellular organisms;d_Bacteria	0.936923292568606	334
+SRR12042325__k127_166681	terpene	-_cellular organisms;d_Bacteria	1.29098480120519	391
+SRR12042325__k127_166682	hserlactone	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales	1.16484735441626	338
+SRR12042325__k127_87752	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.02290778805255	391
+SRR12042341__k127_293701	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	0.962160002839384	241
+SRR12042342__k127_89335	terpene	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda	1.18074543167994	391
+SRR12042342__k127_362759	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae	1.01117135203153	391
+SRR12042342__k127_541086	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Synechococcaceae;g_Synechococcus;s_Synechococcus elongatus;-_Synechococcus elongatus PCC 7942 = FACHB-805	1.18086515545369	591
+SRR12042342__k127_547726	terpene	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales	1.26469166151602	527
+SRR12042342__k127_119713	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Pectobacteriaceae;g_Pectobacterium;s_Pectobacterium atrosepticum;-_Pectobacterium atrosepticum SCRI1043	1.00878082302885	334
+SRR12042342__k127_662538	terpene	-_cellular organisms;d_Bacteria;p_Pseudomonadota	1.12625536175419	391
+SRR12042342__k127_400919	terpene	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidota/Chlorobiota group;p_Bacteroidota	0.968234288421741	334
+SRR12042342__k127_595781	terpene	-_cellular organisms	1.16062672312171	391
+SRR12042342__k127_85004	terpene	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula japonica;-_Haloarcula japonica DSM 6131	1.05359337795176	334
