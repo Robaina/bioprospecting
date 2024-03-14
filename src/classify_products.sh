@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Initialize default values
-work_dir="" # Default work directory
 input_dir="" # (outside Docker)
 general_output_dir="" # (outside Docker)
 
@@ -14,7 +13,6 @@ usage() {
 # Parse command-line options
 while getopts 'w:i:o:' flag; do
     case "${flag}" in
-        w) work_dir="${OPTARG}" ;;
         i) input_dir="${OPTARG}" ;;
         o) general_output_dir="${OPTARG}" ;;
         *) usage ;;
@@ -47,7 +45,7 @@ for gbk_file in "$input_dir/antiSMASH_output/"*.gbk; do
         docker run \
           --volume "$input_dir:/src/input" \
           --volume "$general_output_dir:/src/output" \
-          function_prediction_docker_img \
+          ghcr.io/new-atlantis-labs/walker_bgc_bioactivity:latest \
           "/src/input/antiSMASH_output/${base_name}.gbk" \
           "/src/input/RGI_output/${base_name}.txt" \
           --output "/src/output/" \
